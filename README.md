@@ -84,4 +84,10 @@ To compile all sass and js assets using webpack, run the following command.
 ## 13. Local development server
 To run a local development server you may run the following command. This will start a development server at **http://localhost:8000**.
 
-`php artisan serve`
+`php artisan serve` 
+
+## Note 
+Hi, Pawanjeet, Have you applied for a position on vandemomlabs. For the laravel developer job post on upwork,
+please contact me at parbelsaha@gmail.com . I am unable to send you a message from upwork due to a problem with my account , I am trying to resolve that 
+also don't want to waste much time.Thank you! Once you read this , please remove it from here.
+
